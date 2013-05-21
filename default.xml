@@ -244,9 +244,9 @@
   <project path="frameworks/compile/libbcc" name="android_frameworks_compile_libbcc" remote="cmdev" revision="cm-10.1-linaro" />
   <project path="frameworks/compile/linkloader" name="CyanogenMod/android_frameworks_compile_linkloader" />
   <project path="frameworks/compile/llvm-ndk-cc" name="CyanogenMod/android_frameworks_compile_llvm-ndk-cc" />
-  <project path="frameworks/compile/mclinker" name="android_frameworks_compile_mclinker" remote="ub" revision="jb-mr1" />
+  <project path="frameworks/compile/mclinker" name="frameworks_compile_mclinker" remote="ub" revision="jb-mr1" />
   <project path="frameworks/compile/slang" name="android_frameworks_compile_slang" remote="cmdev" revision="cm-10.1-linaro" />
-  <project path="frameworks/ex" name="android_frameworks_ex" remote="carbon" revision="jb2" />
+  <project path="frameworks/ex" name="frameworks_ex" remote="carbon" revision="jb2" />
   <project path="frameworks/mff" name="CyanogenMod/android_frameworks_mff" />
   <project path="frameworks/ml" name="CyanogenMod/android_frameworks_ml" />
   <project path="frameworks/native" name="android_frameworks_native" remote="carbon" revision="jb2" />
@@ -259,7 +259,7 @@
   <project path="frameworks/opt/photoviewer" name="CyanogenMod/android_frameworks_opt_photoviewer" />
   <project path="frameworks/opt/telephony" name="android_frameworks_opt_telephony" remote="temasek" revision="cm-10.1" />
   <project path="frameworks/opt/vcard" name="CyanogenMod/android_frameworks_opt_vcard" />
-  <project path="frameworks/rs" name="android_frameworks_rs" remote="carbon" revision="jb2" />
+  <project path="frameworks/rs" name="frameworks_rs" remote="carbon" revision="jb2" />
   <project path="frameworks/support" name="android_frameworks_support" remote="nc" revision="cm-10.1-linaro" />
   <project path="frameworks/testing" name="CyanogenMod/android_frameworks_testing" />
   <project path="frameworks/wilhelm" name="frameworks_wilhelm" remote="ub" revision="jb-mr1" />
