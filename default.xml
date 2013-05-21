@@ -263,7 +263,7 @@
   <project path="frameworks/support" name="android_frameworks_support" remote="nc" revision="cm-10.1-linaro" />
   <project path="frameworks/testing" name="CyanogenMod/android_frameworks_testing" />
   <project path="frameworks/wilhelm" name="frameworks_wilhelm" remote="ub" revision="jb-mr1" />
-  <project path="frandom-android" name="frandom-android" remote="temasek" revision="cm-10.1" />
+  <project path="frandom-android" name="frandom-android" remote="temasek" revision="master" />
   <project path="gdk" name="platform/gdk" remote="aosp" revision="refs/tags/android-4.2.2_r1" />
   <project path="hardware/broadcom/wlan" name="CyanogenMod/android_hardware_broadcom_wlan" />
   <project path="hardware/cm" name="CyanogenMod/android_hardware_cm" />
