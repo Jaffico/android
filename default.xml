@@ -396,7 +396,7 @@
   <project path="system/netd" name="CyanogenMod/android_system_netd" />
   <project path="system/security" name="system_security" remote="ub" revision="jb-mr1" />
   <project path="system/vold" name="CyanogenMod/android_system_vold" />
-  <project path="toolchains" name="toolchains" remote="temasek" revision="cm-10.1" />
+  <project path="toolchains" name="toolchains" remote="temasek" revision="master" />
   <project path="tools/build" name="platform/tools/build" remote="aosp" revision="refs/tags/android-4.2.2_r1" />
   <project path="tools/motodev" name="platform/tools/motodev" remote="aosp" revision="refs/tags/android-4.2.2_r1" />
   <project path="vendor/cm" name="android_vendor_cm" remote="temasek" revision="cm-10.1" />
